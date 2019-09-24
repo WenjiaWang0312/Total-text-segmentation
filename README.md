@@ -25,8 +25,11 @@
   Gt_box_x, Gt_box_y, label, type(curved, horizontal, ignore)：
 
   {'\_\_header\_\_': b'MATLAB 5.0 MAT-file, Platform: MACI64, Created on: Wed Oct  4 14:42:18 2017',
+  
    '\_\_version\_\_': '1.0',
+   
    '\_\_globals\_\_': [],
+   
    'polygt': array([[array(['x:'], dtype='<U2'),
            array([[115, 503, 494, 115]], dtype=int16),
            array(['y:'], dtype='<U2'),
@@ -43,7 +46,7 @@
 
   
 
-##My result
+## My result
 
 * **We can see that the region masks are in one-to-one correspondence to the gt_boxes, but the number of the pixel masks are less than the region masks. So I wrote a program to crop the images which have corresponding pixel masks.**
 
