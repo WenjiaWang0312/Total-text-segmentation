@@ -66,7 +66,7 @@
 
 ## Download
 
-Aiming at generate the text segmentation dataset, I created these images. Download : [Google drive]().
+Aiming at generate the text segmentation dataset, I created these images. Download : [Google drive](https://drive.google.com/open?id=1F7KzWeEbppYRpUg4ZwXXJyiCf56YuxHi).
 
 The labels of the text are stored in the file name:
 
